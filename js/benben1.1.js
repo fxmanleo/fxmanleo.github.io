@@ -42,7 +42,7 @@
 		],
 		zh:[
 			//[' ', '校准', 'calibrate'],
-			[' ', '杆量清零', 'calibrate'],
+			[' ', '悬停', 'calibrate'],
             //[' ', '让LED %d.led 灯 %d.onoff','runLed','所有','亮'],
 			//[' ', '让彩色灯亮 %d.color','colorLed','黑色'],
 			[' ', '让蜂鸣器 %d.beep','beeper','关闭'],
